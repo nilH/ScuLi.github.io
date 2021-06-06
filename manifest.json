@@ -1,0 +1,30 @@
+{
+  "short_name": "Jetlink",
+  "name": "Jetlink Institutions",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/assets/logosculi.png",
+      "type": "image/png",
+      "sizes": "256x142"
+    },
+    {
+      "src": "/assets/jetlink480.png",
+      "type": "image/png",
+      "sizes": "480x265"
+    },
+    {
+      "src": "/assets/img-placeholder.png",
+      "type": "image/png",
+      "sizes": "259x259"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
